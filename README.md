@@ -8,7 +8,9 @@
 - Programa 2
 
 ## Actividad 2
-- Programa 3
-- Programa 4
+- p01-Hola-Mundo
+- p02-area-circulo
+- p03-Area Triangulo
+- p04-Paga-Trabajador
 
 ## Actividad 3
