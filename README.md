@@ -4,8 +4,7 @@
 - Correo : yehoshuajuarez@gmail.com
 
 ## Actividad 1
-- Programa 1
-- Programa 2
+- Respositorio
 
 ## Actividad 2
 - p01-Hola-Mundo
