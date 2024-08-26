@@ -1,15 +1,23 @@
-# Uso de las funciones trigonometricas en python
-import math
-print('Calculo de las funciones trigonometricas')
-print('Dame un angulo : ')
+# Uso de las funciones trigonométricas en python
+
+import math as mt
+
+print('Cálculo de las funciones trigonométricas sobre un ángulo')
+print('Dame un ángulo')
+
 angulo = int(input())
-seno = math.sin(angulo)
-coseno = math.cos(angulo)
-tangente = math.tan(angulo)
-grados = math.degrees(angulo)
-salida=('Resumen de funciones\n')
-f'El seno es {seno}\n'
-f'El coseno es {coseno}\n'
-f'La tangente es {tangente}\n'
-f'El angulo {angulo} en radianes equivale a {grados}\n’)
-print ('salida')
+angulor = mt.radians(angulo)
+seno = mt.sin(angulo)
+coseno = mt.cos(angulo)
+tangente = mt.tan(angulo)
+grados = mt.degrees(angulo)
+
+salida = ('Resumen de funciones\n'
+          f'El ángulo en radianes es {angulor}\n'
+          #f'El seno es {seno}\n'
+          f"El seno es {mt.sin(angulor):.3f}"
+          f'El coseno es {coseno}\n'
+          f'La tangente es {tangente}\n'
+          f'El ángulo {angulo} en radianes equivale a {grados}\n')
+
+print(salida)
