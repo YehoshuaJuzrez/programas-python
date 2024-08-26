@@ -13,3 +13,7 @@
 - p04-Paga-Trabajador
 
 ## Actividad 3
+- p05-Calcular promedio
+- p06-Operaciones-Matematicas
+- p07-Funcion-Trigonometricas
+- p08-Dividir-Cifras
