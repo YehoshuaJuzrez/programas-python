@@ -15,5 +15,7 @@
 ## Actividad 3
 - p05-Calcular promedio
 - p06-Operaciones-Matematicas
+- p06b-Operaciones-Designacion
 - p07-Funcion-Trigonometricas
+- p07b-Funciones-Librerias-Math
 - p08-Dividir-Cifras
