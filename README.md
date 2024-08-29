@@ -19,3 +19,11 @@
 - p07-Funcion-Trigonometricas
 - p07b-Funciones-Librerias-Math
 - p08-Dividir-Cifras
+
+## Tarea 1 - Elementos básicos 
+- p09-hipotenusa-triangulo
+- p10-tercer-angulo
+- p11-convertir-temperatura
+- p12-volumen-cilindro
+- p13-calculo-tiempo
+- p14-numero-suerte
