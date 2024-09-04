@@ -33,3 +33,10 @@
 - p16-verificar-suma
 - p17-convertir-temperaturas
 - p18-paga-trabajador-v2
+
+## Actividad 5 - Ejecución condicional - parte 2
+- p19-verifica-suma
+- p20-ley-de-newton
+- p21-aceptar-estudiante
+- p21b-aceptar-estudiante
+- p22-tipo-angulo
