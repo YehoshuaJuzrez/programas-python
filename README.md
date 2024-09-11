@@ -40,3 +40,10 @@
 - p21-aceptar-estudiante
 - p21b-aceptar-estudiante
 - p22-tipo-angulo
+
+## Actividad 7 - Ejecución repetitiva parte 2
+- p34-tabla-conversion
+- p35-conjetura-collatz
+- p36-tabla-multiplicar
+- p37-tabla-multiplicar-v2
+- p38-adivina-numero
